@@ -1,0 +1,20 @@
+[
+    {
+        "name": {
+            "en": "Tell Your World",
+            "cn": {
+                "simplified": "Tell Your World",
+                "traditional": "Tell Your World"
+            },
+            "jp": "Tell Your World",
+            "kr": "Tell Your World"
+        },
+        "info": {
+            "easy": 5,
+            "normal": 10,
+            "hard": 16,
+            "expert": 22,
+            "master": 26
+        }
+    }
+]
