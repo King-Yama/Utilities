@@ -1,0 +1,6 @@
+/* Brand Logo Properties - Size and Shape */
+img#Nav-Logo {
+    max-width: 7%;
+    height: auto;
+    border-radius: 25%;
+}
