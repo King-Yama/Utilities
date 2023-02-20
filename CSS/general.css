@@ -1,6 +1,13 @@
 /* Brand Logo Properties - Size and Shape */
 img#Nav-Logo {
-    max-width: 0.5em;
+    max-width: 7%;
     height: auto;
     border-radius: 25%;
+}
+
+/* YouTube Logo Properties - Size and Shape */
+img#YouTube-Logo {
+    max-width: 2.5em;
+    height: auto;
+    border-radius: 5%
 }
